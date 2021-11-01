@@ -679,4 +679,20 @@ Text Notes 7300 7250 0    50   ~ 10
 1
 Text Notes 7400 7250 0    50   ~ 10
 1
+Text Label 8000 2050 0    50   ~ 10
+SW
+Text Label 10300 2050 0    50   ~ 10
+VLED
+Text Label 10550 3550 0    50   ~ 10
+A
+Text Label 10550 3750 0    50   ~ 10
+K
+Text Label 9150 4350 0    50   ~ 10
+PWMOUT
+Text Label 8350 3700 0    50   ~ 10
+FB
+Text Label 1050 3550 0    50   ~ 10
+AC1
+Text Label 1050 3650 0    50   ~ 10
+AC2
 $EndSCHEMATC
