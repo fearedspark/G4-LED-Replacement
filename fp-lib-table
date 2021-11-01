@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Analog_Devices)(type KiCad)(uri ${KIPRJMOD}/Analog_Devices.pretty)(options "")(descr ""))
+  (lib (name Bourns)(type KiCad)(uri ${KIPRJMOD}/Bourns.pretty)(options "")(descr ""))
+  (lib (name Custom)(type KiCad)(uri ${KIPRJMOD}/Custom.pretty)(options "")(descr ""))
+)
